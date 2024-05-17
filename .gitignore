@@ -1,0 +1,9 @@
+F_MNIST_data/*
+MNIST_data/*
+checkpoint.pth
+.Trash-1000/
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+lost+found
+
